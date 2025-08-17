@@ -1,7 +1,6 @@
 # Python-Django-Bank-Application
 This is an API-based Django app built using Django Rest Framework. You can register a new user, create bank accounts, make deposists and withdrawals and view your transactions using API endpoints.
 
-#### Video Demo: https://youtu.be/Z9QujPIChWE
 
 
 ### Logic implemented:
@@ -45,11 +44,11 @@ source venv/bin/activate
 ```
 6. Clone this git repo
 ```
-git clone https://github.com/Jaye-python/Python-Django-Bank-Application.git
+git clone https://github.com/chanukya2002/Banking_Application.git
 ```
-7. Move into the `Python-Django-Bank-Application` folder 
+7. Move into the `Banking_Application` folder 
 ```
-cd Python-Django-Bank-Application
+cd Banking_Application
 ```
 8. Install dependencies
 ```
@@ -75,9 +74,9 @@ cd ..
 ```
 source venv/bin/activate
 ```
-14. . Move back into the `Python-Django-Bank-Application` folder 
+14. . Move back into the `Banking_Application` folder 
 ```
-cd Python-Django-Bank-Application
+cd Banking_Application
 ```
 15. In this same new terminal, run custom management command below to create 5 new user accounts (while server is still running)
 ```
